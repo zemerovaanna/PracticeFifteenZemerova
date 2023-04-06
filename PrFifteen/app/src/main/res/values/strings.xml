@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My</string>
+    <string name="ques_text1">iS HTML a programming language?</string>
+    <string name="ques_text2">Are you a programmer?</string>
+    <string name="ques_text3">Is c# real?</string>
+    <string name="ques_text4">Is Misha a programmer?</string>
+    <string name="buttontrue">Верно</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="truebutton">true</string>
+    <string name="falsebutton">false</string>
+    <string name="nextbutton">next</string>
+</resources>
